@@ -10,5 +10,5 @@
     "inotifywait",
     "watch"
   ],
-  "license": "ISC"
+  "license": "BSD-2-Clause"
 }
