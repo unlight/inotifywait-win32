@@ -1,0 +1,14 @@
+{
+  "name": "inotifywait-win32",
+  "version": "1.0.0",
+  "description": "Windows binaries of [thekid/inotify-win](https://github.com/thekid/inotify-win)",
+  "bin": "./bin/inotifywait.exe",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "inotifywait",
+    "watch"
+  ],
+  "license": "ISC"
+}
